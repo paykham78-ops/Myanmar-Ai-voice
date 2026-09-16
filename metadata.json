@@ -1,0 +1,6 @@
+{
+  "name": "Myanmar AI Voice",
+  "description": "Natural Myanmar text-to-speech voice generator with voice styles, speed controls, audio playback, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

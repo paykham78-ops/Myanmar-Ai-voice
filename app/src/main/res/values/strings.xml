@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Myanmar AI Voice</string>
+    <string name="app_tagline">မြန်မာစာကို သဘာဝကျကျ အသံဖန်တီးပါ</string>
+    <string name="input_label">မြန်မာစာထည့်ရန်</string>
+    <string name="input_placeholder">စာရိုက်ရန် သို့မဟုတ် စာသားကူးထည့်ရန်…</string>
+    <string name="char_count_format">စာလုံးရေ — %1$s / 5,000</string>
+    <string name="select_voice">အသံရွေးရန်</string>
+    <string name="voice_speed">အသံအမြန်နှုန်း</string>
+    <string name="btn_generate">မြန်မာအသံဖန်တီးမည်</string>
+    <string name="btn_generating">အသံဖန်တီးနေပါသည်…</string>
+    <string name="audio_player_title">Audio Player</string>
+    <string name="recent_voices_title">နောက်ဆုံးဖန်တီးထားသော အသံများ</string>
+    <string name="btn_download">သိမ်းဆည်းရန်</string>
+    <string name="btn_share">မျှဝေရန်</string>
+    <string name="no_recent_history">ဖန်တီးထားသော အသံများ မရှိသေးပါ</string>
+</resources>
